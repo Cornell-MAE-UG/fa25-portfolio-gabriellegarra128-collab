@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Gabrielle Garra
 description              : Gabrielle Garra - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "fa25-portfolio-gabriellegarra128-collab"  
 
 # Theme and Style
 theme: jekyll-theme-minimal
