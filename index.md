@@ -14,6 +14,9 @@ My name is Gabrielle Garra and I am a senior in the College of Engineering at Co
 
 [View MAE 3260 Final Groupwork Report (PDF)]({{ "/pdf/MAE3260_FinalGroupwork_Report.pdf" | relative_url }})
 
+📄 [MAE 4300 Final Report (PDF)](/fa25-portfolio-gabriellegarra128-collab/assets/pdf/MAE%204300%20Final%20Report.pdf)
+
+
 
 
 
